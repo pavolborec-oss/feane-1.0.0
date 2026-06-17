@@ -126,7 +126,7 @@ $filteredProducts = $selectedCategory ? $repo->getByCategory($selectedCategory) 
     <div class="bg-box">
       <img src="images/hero-bg.jpg" alt="">
     </div>
-    <?php include 'templates/header.php'; ?>
+    <?php include 'partials/header.php'; ?>
   </div>
 
   <div class="menu-container">
@@ -164,7 +164,7 @@ $filteredProducts = $selectedCategory ? $repo->getByCategory($selectedCategory) 
     </div>
   </div>
 
-  <?php include 'templates/footer.php'; ?>
+  <?php include 'partials/footer.php'; ?>
 
 </body>
 

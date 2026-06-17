@@ -41,7 +41,7 @@
     <div class="bg-box">
       <img src="images/hero-bg.jpg" alt="">
     </div>
-    <?php include 'templates/header.php'; ?>
+    <?php include 'partials/header.php'; ?>
   </div>
 
   <!-- book section -->
@@ -105,7 +105,7 @@
   </section>
   <!-- end book section -->
 
-  <?php include 'templates/footer.php'; ?>
+  <?php include 'partials/footer.php'; ?>
 
   <!-- jQery -->
   <script src="js/jquery-3.4.1.min.js"></script>
