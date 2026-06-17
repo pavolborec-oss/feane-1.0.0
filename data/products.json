@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Burgery",
+    "description": "Chutný burger s čerstvými ingredienciami",
+    "price": 8.99,
+    "category": "Hlavné jedlá",
+    "image": ""
+  },
+  {
+    "id": 2,
+    "name": "Pizza Margarita",
+    "description": "Tradičná pizza s mozzarellou",
+    "price": 10.99,
+    "category": "Hlavné jedlá",
+    "image": ""
+  },
+  {
+    "id": 3,
+    "name": "Caesar Šalát",
+    "description": "Svieži šalát s kuracím mäsom",
+    "price": 7.99,
+    "category": "Šaláty",
+    "image": ""
+  },
+  {
+    "id": 4,
+    "name": "Kuračie krídla",
+    "description": "BBQ kuračie krídla",
+    "price": 9.99,
+    "category": "Hlavné jedlá",
+    "image": ""
+  },
+  {
+    "id": 5,
+    "name": "Čokoládový koláč",
+    "description": "Sladký koláč s jahôdkami",
+    "price": 5.99,
+    "category": "Deserty",
+    "image": ""
+  },
+  {
+    "id": 6,
+    "name": "Coca Cola",
+    "description": "Klasická Coca Cola 330ml",
+    "price": 2.50,
+    "category": "Nápoje",
+    "image": ""
+  },
+  {
+    "id": 7,
+    "name": "Spaghetti Carbonara",
+    "description": "Talianske cestoviny",
+    "price": 11.99,
+    "category": "Hlavné jedlá",
+    "image": ""
+  },
+  {
+    "id": 8,
+    "name": "Kapucíno",
+    "description": "Voňavé kapucíno s mliekom",
+    "price": 3.50,
+    "category": "Nápoje",
+    "image": ""
+  }
+]
