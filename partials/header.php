@@ -30,7 +30,7 @@ $navItems = [
           <?php endforeach; ?>
         </ul>
         <div class="user_option">
-          <a href="#" class="user_link">
+          <a href="/feane-1.0.0/login.php" class="user_link">
             <i class="fa fa-user" aria-hidden="true"></i>
           </a>
           <a class="cart_link" href="#">
