@@ -248,11 +248,11 @@ if (empty($_SESSION['csrf_token'])) {
             <div class="demo-credentials">
                 <strong>Demo účty:</strong>
                 <p><strong>Admin:</strong> admin / admin123</p>
-                <p><strong>Užívateľ:</strong> user / user123</p>
+                
             </div>
 
             <div class="login-footer">
-                <p>Bezpečné prihlásenie s PHP session a CSRF ochranou</p>
+                
             </div>
         </div>
     </div>
